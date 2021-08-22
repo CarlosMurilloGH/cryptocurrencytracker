@@ -8,7 +8,6 @@
 }
 
 .coin-app {
-  overflow-x: auto;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -42,3 +41,4 @@
 .coin-input::placeholder {
   color: #e2e2e2;
 }
+
